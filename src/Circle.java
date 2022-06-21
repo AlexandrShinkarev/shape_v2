@@ -1,4 +1,4 @@
-public class Circle extends Shape {
+public class Circle extends Shape implements ShapeCalculation {
     private final float pi = 3.14f;
     private float r; // радиус
 

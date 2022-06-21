@@ -1,4 +1,4 @@
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements ShapeCalculation {
     private float a; //длина
     private float b; //ширина
 
