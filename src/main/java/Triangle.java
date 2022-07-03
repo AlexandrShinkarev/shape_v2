@@ -1,3 +1,5 @@
+package main.java;
+
 public class Triangle extends Shape implements ShapeCalculation {
     private float a; // длина основания
     private float h; //высота к основанию
